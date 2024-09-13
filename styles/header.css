@@ -1,0 +1,23 @@
+.cabecalho {
+    width: 24%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__botao:checked~.lista-menu {
+
+}
+
+.cabecalho__menu-hamburguer {
+
+}
+
+.lista-menu {
+    
+}
