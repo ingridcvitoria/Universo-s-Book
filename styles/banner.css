@@ -1,5 +1,5 @@
 .banner {
-    background-color: var (--azul-degrade);
+    background-color: var(--azul-degrade);
     display: flex;
     justify-content: center;
     color: white;
@@ -17,9 +17,9 @@
 }
 
 .banner__pesquisa {
-    background-color: var (--azul-degrade);
-    border: 1px solid var (--branco);
-    color: var (--branco);
+    background-color: var(--azul-degrade);
+    border: 1px solid var(--branco);
+    color: var(--branco);
     border-radius: 24px;
     padding: 1em;
     width: 100%;

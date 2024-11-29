@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: var (--branco);
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,13 +36,13 @@
 }
 
 .lista-menu__titulo {
-    color: var (--laranja);
-    background-color: var (--branco);
+    color: var(--laranja);
+    background-color: var(--branco);
     font-weight: 700px;
 }
 
 .lista-menu__link {
-    background: var (--azul-degrade);
+    background: var(--azul-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -51,8 +51,8 @@
 
 .lista-menu__item {
     padding: 20px;
-    color: var (--preto);
-    background-color: var (--branco);
+    color: var(--preto);
+    background-color: var(--branco);
 }
 
 .container__imagem {
